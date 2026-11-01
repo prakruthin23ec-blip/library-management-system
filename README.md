@@ -20,7 +20,7 @@ python app.py
 (Python 3 required. No extra libraries needed.)
 
 ## Team
-- Member 1: <your name>
-- Member 2: <partner name>
+- Member 1:  Prakruthi N (USN:1VA23EC073), Developer
+- Member 2: SRUSHTI S PATIL (USN 1VA23EC111)
 
 Sai Vidya Institute of Technology, Dept. of ECE (VTU)
